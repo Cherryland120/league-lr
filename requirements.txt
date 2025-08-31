@@ -1,0 +1,5 @@
+pandas==2.1.4
+scikit-learn==1.7.0
+torch=2.2.2
+matplotlib==3.9.2
+seaborn==0.12.2
